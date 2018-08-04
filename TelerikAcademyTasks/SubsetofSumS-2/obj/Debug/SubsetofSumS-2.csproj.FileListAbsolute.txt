@@ -1,0 +1,6 @@
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\SubsetofSumS-2\bin\Debug\SubsetofSumS-2.exe.config
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\SubsetofSumS-2\bin\Debug\SubsetofSumS-2.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\SubsetofSumS-2\bin\Debug\SubsetofSumS-2.pdb
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\SubsetofSumS-2\obj\Debug\SubsetofSumS-2.csprojResolveAssemblyReference.cache
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\SubsetofSumS-2\obj\Debug\SubsetofSumS-2.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\SubsetofSumS-2\obj\Debug\SubsetofSumS-2.pdb

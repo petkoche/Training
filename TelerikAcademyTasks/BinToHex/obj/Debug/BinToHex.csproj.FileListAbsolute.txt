@@ -1,0 +1,5 @@
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\BinToHex\bin\Debug\BinToHex.exe.config
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\BinToHex\bin\Debug\BinToHex.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\BinToHex\bin\Debug\BinToHex.pdb
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\BinToHex\obj\Debug\BinToHex.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\BinToHex\obj\Debug\BinToHex.pdb

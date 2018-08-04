@@ -1,0 +1,5 @@
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\MaxSumofKElements\bin\Debug\MaxSumofKElements.exe.config
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\MaxSumofKElements\bin\Debug\MaxSumofKElements.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\MaxSumofKElements\bin\Debug\MaxSumofKElements.pdb
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\MaxSumofKElements\obj\Debug\MaxSumofKElements.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\MaxSumofKElements\obj\Debug\MaxSumofKElements.pdb

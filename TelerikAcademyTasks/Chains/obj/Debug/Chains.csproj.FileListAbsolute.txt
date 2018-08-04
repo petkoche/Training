@@ -1,0 +1,7 @@
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Chains\bin\Debug\Chains.exe.config
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Chains\bin\Debug\Chains.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Chains\bin\Debug\Chains.pdb
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Chains\obj\Debug\Chains.csprojResolveAssemblyReference.cache
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Chains\obj\Debug\Chains.csproj.CoreCompileInputs.cache
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Chains\obj\Debug\Chains.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Chains\obj\Debug\Chains.pdb

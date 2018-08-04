@@ -1,0 +1,6 @@
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\BitShiftMatrix\bin\Debug\BitShiftMatrix.exe.config
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\BitShiftMatrix\bin\Debug\BitShiftMatrix.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\BitShiftMatrix\bin\Debug\BitShiftMatrix.pdb
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\BitShiftMatrix\obj\Debug\BitShiftMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\BitShiftMatrix\obj\Debug\BitShiftMatrix.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\BitShiftMatrix\obj\Debug\BitShiftMatrix.pdb

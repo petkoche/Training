@@ -1,0 +1,6 @@
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\SectretMessage\bin\Debug\SectretMessage.exe.config
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\SectretMessage\bin\Debug\SectretMessage.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\SectretMessage\bin\Debug\SectretMessage.pdb
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\SectretMessage\obj\Debug\SectretMessage.csprojResolveAssemblyReference.cache
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\SectretMessage\obj\Debug\SectretMessage.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\SectretMessage\obj\Debug\SectretMessage.pdb

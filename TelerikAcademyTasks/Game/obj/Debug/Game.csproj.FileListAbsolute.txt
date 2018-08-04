@@ -1,0 +1,6 @@
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Game\bin\Debug\Game.exe.config
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Game\bin\Debug\Game.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Game\bin\Debug\Game.pdb
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Game\obj\Debug\Game.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Game\obj\Debug\Game.pdb

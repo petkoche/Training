@@ -1,0 +1,5 @@
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Numerology\bin\Debug\Numerology.exe.config
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Numerology\bin\Debug\Numerology.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Numerology\bin\Debug\Numerology.pdb
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Numerology\obj\Debug\Numerology.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Numerology\obj\Debug\Numerology.pdb

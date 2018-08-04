@@ -1,0 +1,6 @@
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\LargestPrimeNumber\bin\Debug\LargestPrimeNumber.exe.config
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\LargestPrimeNumber\bin\Debug\LargestPrimeNumber.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\LargestPrimeNumber\bin\Debug\LargestPrimeNumber.pdb
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\LargestPrimeNumber\obj\Debug\LargestPrimeNumber.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\LargestPrimeNumber\obj\Debug\LargestPrimeNumber.pdb
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\LargestPrimeNumber\obj\Debug\LargestPrimeNumber.csprojResolveAssemblyReference.cache

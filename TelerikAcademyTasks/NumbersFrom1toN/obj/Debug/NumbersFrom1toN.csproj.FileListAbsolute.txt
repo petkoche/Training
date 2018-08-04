@@ -1,0 +1,6 @@
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\NumbersFrom1toN\bin\Debug\NumbersFrom1toN.exe.config
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\NumbersFrom1toN\bin\Debug\NumbersFrom1toN.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\NumbersFrom1toN\bin\Debug\NumbersFrom1toN.pdb
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\NumbersFrom1toN\obj\Debug\NumbersFrom1toN.csprojResolveAssemblyReference.cache
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\NumbersFrom1toN\obj\Debug\NumbersFrom1toN.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\NumbersFrom1toN\obj\Debug\NumbersFrom1toN.pdb

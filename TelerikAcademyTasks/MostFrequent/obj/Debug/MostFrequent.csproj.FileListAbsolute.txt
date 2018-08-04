@@ -1,0 +1,5 @@
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\MostFrequent\bin\Debug\MostFrequent.exe.config
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\MostFrequent\bin\Debug\MostFrequent.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\MostFrequent\bin\Debug\MostFrequent.pdb
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\MostFrequent\obj\Debug\MostFrequent.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\MostFrequent\obj\Debug\MostFrequent.pdb

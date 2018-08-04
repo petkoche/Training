@@ -1,0 +1,6 @@
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe.config
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.pdb
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.pdb

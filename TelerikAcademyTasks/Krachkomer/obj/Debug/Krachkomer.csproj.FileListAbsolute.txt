@@ -1,0 +1,6 @@
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Krachkomer\bin\Debug\Krachkomer.exe.config
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Krachkomer\bin\Debug\Krachkomer.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Krachkomer\bin\Debug\Krachkomer.pdb
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Krachkomer\obj\Debug\Krachkomer.csprojResolveAssemblyReference.cache
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Krachkomer\obj\Debug\Krachkomer.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\Krachkomer\obj\Debug\Krachkomer.pdb

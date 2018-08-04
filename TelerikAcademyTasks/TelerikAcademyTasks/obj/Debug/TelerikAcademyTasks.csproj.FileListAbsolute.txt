@@ -1,0 +1,6 @@
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\TelerikAcademyTasks\bin\Debug\TelerikAcademyTasks.exe.config
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\TelerikAcademyTasks\bin\Debug\TelerikAcademyTasks.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\TelerikAcademyTasks\bin\Debug\TelerikAcademyTasks.pdb
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\TelerikAcademyTasks\obj\Debug\TelerikAcademyTasks.csprojResolveAssemblyReference.cache
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\TelerikAcademyTasks\obj\Debug\TelerikAcademyTasks.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\TelerikAcademyTasks\obj\Debug\TelerikAcademyTasks.pdb

@@ -1,0 +1,6 @@
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\MaxSumofSubsequence\bin\Debug\MaxSumofSubsequence.exe.config
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\MaxSumofSubsequence\bin\Debug\MaxSumofSubsequence.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\MaxSumofSubsequence\bin\Debug\MaxSumofSubsequence.pdb
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\MaxSumofSubsequence\obj\Debug\MaxSumofSubsequence.csprojResolveAssemblyReference.cache
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\MaxSumofSubsequence\obj\Debug\MaxSumofSubsequence.exe
+C:\Users\Greddy\Desktop\nokutche\vs\TelerikAcademyTasks\MaxSumofSubsequence\obj\Debug\MaxSumofSubsequence.pdb
