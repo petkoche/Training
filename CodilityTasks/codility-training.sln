@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxCounters", "MaxCounters\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassingCars", "PassingCars\PassingCars.csproj", "{A2DD6244-D324-49CB-91DA-CF1E6B4EF28C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distinct", "Distinct\Distinct.csproj", "{3F20B108-C808-42C3-B9F0-B2812B812D2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{A2DD6244-D324-49CB-91DA-CF1E6B4EF28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2DD6244-D324-49CB-91DA-CF1E6B4EF28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2DD6244-D324-49CB-91DA-CF1E6B4EF28C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F20B108-C808-42C3-B9F0-B2812B812D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F20B108-C808-42C3-B9F0-B2812B812D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F20B108-C808-42C3-B9F0-B2812B812D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F20B108-C808-42C3-B9F0-B2812B812D2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
