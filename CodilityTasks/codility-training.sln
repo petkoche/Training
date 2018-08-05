@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassingCars", "PassingCars\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distinct", "Distinct\Distinct.csproj", "{3F20B108-C808-42C3-B9F0-B2812B812D2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountDiv", "CountDiv\CountDiv.csproj", "{662FE8D1-E22A-4A20-BA10-A1F9EA675B12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{3F20B108-C808-42C3-B9F0-B2812B812D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F20B108-C808-42C3-B9F0-B2812B812D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F20B108-C808-42C3-B9F0-B2812B812D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{662FE8D1-E22A-4A20-BA10-A1F9EA675B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662FE8D1-E22A-4A20-BA10-A1F9EA675B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662FE8D1-E22A-4A20-BA10-A1F9EA675B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662FE8D1-E22A-4A20-BA10-A1F9EA675B12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
