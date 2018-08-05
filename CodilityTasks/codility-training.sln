@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bracket", "Bracket\Bracket.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SChain", "SChain\SChain.csproj", "{40CACF8A-94BE-4716-B0E8-7D770C083DB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWord", "SWord\SWord.csproj", "{2DE6298A-D6DE-4EAA-BB37-822A8F421EF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{40CACF8A-94BE-4716-B0E8-7D770C083DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40CACF8A-94BE-4716-B0E8-7D770C083DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40CACF8A-94BE-4716-B0E8-7D770C083DB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE6298A-D6DE-4EAA-BB37-822A8F421EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE6298A-D6DE-4EAA-BB37-822A8F421EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE6298A-D6DE-4EAA-BB37-822A8F421EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE6298A-D6DE-4EAA-BB37-822A8F421EF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
