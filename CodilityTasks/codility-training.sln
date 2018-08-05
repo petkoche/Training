@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrogRiverOne", "FrogRiverOn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxCounters", "MaxCounters\MaxCounters.csproj", "{DC680B61-390F-43B3-B047-3C69C9D2E73D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassingCars", "PassingCars\PassingCars.csproj", "{A2DD6244-D324-49CB-91DA-CF1E6B4EF28C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{DC680B61-390F-43B3-B047-3C69C9D2E73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC680B61-390F-43B3-B047-3C69C9D2E73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC680B61-390F-43B3-B047-3C69C9D2E73D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2DD6244-D324-49CB-91DA-CF1E6B4EF28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DD6244-D324-49CB-91DA-CF1E6B4EF28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DD6244-D324-49CB-91DA-CF1E6B4EF28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DD6244-D324-49CB-91DA-CF1E6B4EF28C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
