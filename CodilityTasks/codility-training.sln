@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountDiv", "CountDiv\CountD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxProductOfThree", "MaxProductOfThree\MaxProductOfThree.csproj", "{2C38C8E9-6EB6-48DE-898F-C6CEA623E8B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "Triangle\Triangle.csproj", "{B6CF218D-6D8D-415C-9A1D-7DABA9750947}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{2C38C8E9-6EB6-48DE-898F-C6CEA623E8B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C38C8E9-6EB6-48DE-898F-C6CEA623E8B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C38C8E9-6EB6-48DE-898F-C6CEA623E8B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6CF218D-6D8D-415C-9A1D-7DABA9750947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6CF218D-6D8D-415C-9A1D-7DABA9750947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6CF218D-6D8D-415C-9A1D-7DABA9750947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6CF218D-6D8D-415C-9A1D-7DABA9750947}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
