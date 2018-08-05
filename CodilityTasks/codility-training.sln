@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxProductOfThree", "MaxPro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "Triangle\Triangle.csproj", "{B6CF218D-6D8D-415C-9A1D-7DABA9750947}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nesting", "Brackets\Nesting.csproj", "{0C691FFB-08A5-4193-A723-A4FC63A03739}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{B6CF218D-6D8D-415C-9A1D-7DABA9750947}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6CF218D-6D8D-415C-9A1D-7DABA9750947}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6CF218D-6D8D-415C-9A1D-7DABA9750947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C691FFB-08A5-4193-A723-A4FC63A03739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C691FFB-08A5-4193-A723-A4FC63A03739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C691FFB-08A5-4193-A723-A4FC63A03739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C691FFB-08A5-4193-A723-A4FC63A03739}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
